@@ -6,28 +6,9 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUydnE2cWs4MnJnbWJxcGY3MjF6bWhhZm00emRpb3RvYTk0YWl5cTcwcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/200w.gif" width="280" />
 </div>
 
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=I+love+building+beautiful+web+experiences;Frontend+Developer+💻;Flutter+Explorer+📱;Always+learning+new+things+🚀" />
-</p>
-
-<!-- Trophy -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dipanjan2004&theme=radical" />
-</p>
 
 
-<!-- Typing Animation -->
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=600&lines=I+love+building+beautiful+web+experiences;Frontend+Developer+💻;Flutter+Explorer+📱;Always+learning+new+things+🚀" alt="Typing SVG" />
-</h3>
 
----
-
-<!-- Trophy -->
-<p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=dipanjan2004&theme=radical&margin-w=10&row=1" alt="dipanjan2004" />
-</p>
 
 ---
 
