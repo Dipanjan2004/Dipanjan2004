@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dipanjan</h1>
-<h3 align="center">Frontend Developer | Flutter Enthusiast | Creative Tech Learner</h3>
+<h3 align="center">Full-Stack Developer | AI & Automation Builder | Creative Technologist</h3>
 
 <!-- Coding GIF -->
 <div align="center">
@@ -9,21 +9,30 @@
 <br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&center=true&vCenter=true&width=600&lines=I+love+building+beautiful+web+experiences;Frontend+Developer+💻;Flutter+Explorer+📱;Always+learning+new+things+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&center=true&vCenter=true&width=700&lines=Building+AI-powered+products+⚡;Full-Stack+Developer+💻;Automation+%26+Backend+Systems+⚙️;Creating+real-world+tech+solutions+🚀" alt="Typing SVG" />
 </p>
-
-
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on **React, GSAP animations & responsive frontend design**
-- 🌱 I’m learning:  
-  **Advanced JavaScript · ES6 · Framer Motion · Flutter · Git/GitHub · Node.js & Express**
-- 👨‍💻 My work: **https://portfolio-cyan-five-22.vercel.app/**
-- 💬 Ask me about **Frontend dev, React, CSS, animations, DSA basics, design tools**
+- 🔭 I’m currently working on **AI chatbots, automation systems, and full-stack web apps**
+- 🧠 Building projects around **AI integrations, backend workflows, and scalable systems**
+- 🌱 Currently learning:  
+  **Advanced JavaScript · System Design · Node.js · Express · APIs · AI/LLM integrations**
+- 👨‍💻 Portfolio: **https://portfolio-cyan-five-22.vercel.app/**
+- 💬 Ask me about **Frontend, Backend, AI tools, Automation, APIs, DSA basics**
 - 📫 Reach me: **chowdhurydipanjan173@gmail.com**
+
+---
+
+## 🧠 What I Do
+
+- 🤖 Build **AI-powered chatbots & assistants**
+- ⚙️ Create **automation workflows for businesses**
+- 🌐 Develop **responsive, high-performance web apps**
+- 🔗 Work with **APIs, databases, and backend systems**
+- 🎯 Focus on **real-world problem solving (not just tutorials)**
 
 ---
 
@@ -36,28 +45,26 @@
 
 ---
 
-## 🛠️ Languages & Tools
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+## 🛠️ Tech Stack
+
+### 💻 Frontend
+<p>
+  HTML · CSS · JavaScript · React · Tailwind · GSAP · Framer Motion
 </p>
 
----
+### ⚙️ Backend & Systems
+<p>
+  Node.js · Express · REST APIs · MongoDB · Authentication · Server Logic
+</p>
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dipanjan2004&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dipanjan2004&layout=compact&theme=radical" height="180"/>
+### 🤖 AI & Tools
+<p>
+  OpenAI APIs · Chatbot Systems · Automation Tools · Git · GitHub
+</p>
+
+### 📱 Others
+<p>
+  Flutter · Python · Basic DSA
 </p>
 
 ---
@@ -77,5 +84,5 @@
 ---
 
 <p align="center">
-  ✨ <i>Building, learning & growing every day!</i> ✨
+  ⚡ <i>Building real products, not just projects.</i> ⚡
 </p>
