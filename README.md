@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Dipanjan</h1>
+<h1 align="center">Hi, I'm Dipanjan Chowdhury</h1>
 <h3 align="center">Full-Stack Developer | AI & Automation</h3>
 
 <div align="center">
